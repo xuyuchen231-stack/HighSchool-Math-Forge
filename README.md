@@ -19,7 +19,7 @@ xelatex -interaction=nonstopmode -halt-on-error -output-directory=examples templ
 推荐 Python 依赖：`pip install -r requirements.txt`。运行绘图前需安装支持中文的字体；缺少字体时可使用英文图注并在正文说明。`scripts/validate.py` 只做文件/索引结构校验，不能证明解题正确性。
 
 ## 状态
-v0.1 为可执行的工作流骨架、完整课程专题索引、若干基础教学示范与绘图脚本；**不是**所有专题已完成知识精讲，更未完成全国历年真题穷尽式验证。真题应由用户提供或从合法授权来源获取，不在仓库批量转载第三方试卷。
+v0.1.1 为可执行的工作流骨架、完整课程专题索引、若干基础教学示范与绘图脚本；**不是**所有专题已完成知识精讲，更未完成全国历年真题穷尽式验证。真题应由用户提供或从合法授权来源获取，不在仓库批量转载第三方试卷。
 
 ## 目录
 - `SKILL.md`：Agent 入口与硬性质量要求
@@ -29,5 +29,5 @@ v0.1 为可执行的工作流骨架、完整课程专题索引、若干基础教
 - `templates/`：XeLaTeX 中文教辅样例
 - `prompts/`：使用提示词
 
-## 发布
-仓库建议名：`xuyuchen231-stack/HighSchool-Math-Forge`。创建 GitHub 仓库后上传本包展开后的文件（不要只放 ZIP）。
+## GitHub 发布与绘图示例
+完整源码现已上传。运行 `python scripts/plot_examples.py --out examples/figures` 生成四组 PNG + 矢量 PDF 科学绘图；GitHub Actions 会校验结构与绘图，并提供可下载的运行产物。切线示例已修正为 `y=-2x+6`，请勿使用旧版错误的 `y=-2x+8`。
