@@ -1,0 +1,28 @@
+% Compile: xelatex -interaction=nonstopmode -halt-on-error lesson.tex
+\documentclass[UTF8,11pt,a4paper]{ctexart}
+\usepackage{amsmath,amssymb,mathtools,geometry,graphicx,booktabs,hyperref,enumitem,xcolor}
+\geometry{margin=23mm}
+\setlength{\parindent}{2em}
+\setlength{\parskip}{0.35em}
+\definecolor{answerred}{RGB}{175,30,45}
+\title{高中数学：零基础逐题精讲（示例）}
+\author{HighSchool-Math-Forge}
+\date{}
+\begin{document}
+\maketitle
+\tableofcontents
+\section{示范题：二次函数的最小值}
+已知函数 $f(x)=x^2-4x+7$，求其在 $[0,3]$ 上的最小值。
+\par\textcolor{answerred}{\bfseries 答案：$3$。}
+\subsection{逐步推导}
+先配方：
+\begin{align}
+f(x)&=x^2-4x+7\\
+&=(x-2)^2+3.
+\end{align}
+因为 $(x-2)^2\ge 0$，故 $f(x)\ge 3$。当 $x=2$ 时取等号，而 $2\in[0,3]$，因此最小值为 $3$。
+\subsection{知识精讲}
+配方将二次函数转化为顶点式。平方项非负，但必须核对使其为零的点是否属于给定定义域。
+\subsection{变式}
+若定义域改为 $[3,5]$，则 $x=2$ 不在区间内。因 $x\ge3$ 时 $(x-2)^2$ 随 $x$ 增大，最小值在 $x=3$ 处取得，为 $4$。
+\end{document}
