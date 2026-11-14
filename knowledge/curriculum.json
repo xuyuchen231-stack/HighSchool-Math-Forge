@@ -1,0 +1,616 @@
+{
+  "title": "中国高中数学课程知识索引",
+  "version": "0.1",
+  "notes": "索引节点未等同于完成的知识讲义",
+  "topics": [
+    {
+      "id": "MATH-001",
+      "title": "集合表示与运算",
+      "section": "集合、逻辑与数学语言",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "MATH-002",
+      "title": "充分条件与必要条件",
+      "section": "集合、逻辑与数学语言",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "MATH-003",
+      "title": "全称量词与存在量词",
+      "section": "集合、逻辑与数学语言",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "MATH-004",
+      "title": "常用逻辑与反证法",
+      "section": "集合、逻辑与数学语言",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "MATH-005",
+      "title": "不等式基本性质",
+      "section": "集合、逻辑与数学语言",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "MATH-006",
+      "title": "基本不等式",
+      "section": "集合、逻辑与数学语言",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "MATH-007",
+      "title": "函数定义与三要素",
+      "section": "函数与方程",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "MATH-008",
+      "title": "函数表示与分段函数",
+      "section": "函数与方程",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "MATH-009",
+      "title": "函数单调性与奇偶性",
+      "section": "函数与方程",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "MATH-010",
+      "title": "函数周期性与对称性",
+      "section": "函数与方程",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "MATH-011",
+      "title": "幂函数",
+      "section": "函数与方程",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "MATH-012",
+      "title": "指数函数",
+      "section": "函数与方程",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "MATH-013",
+      "title": "对数函数",
+      "section": "函数与方程",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "MATH-014",
+      "title": "函数零点与方程",
+      "section": "函数与方程",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "MATH-015",
+      "title": "函数图像变换",
+      "section": "函数与方程",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "MATH-016",
+      "title": "二次函数与参数最值",
+      "section": "函数与方程",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "MATH-017",
+      "title": "函数综合应用",
+      "section": "函数与方程",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "MATH-018",
+      "title": "任意角与弧度制",
+      "section": "三角函数与解三角形",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "MATH-019",
+      "title": "单位圆与三角函数定义",
+      "section": "三角函数与解三角形",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "MATH-020",
+      "title": "同角关系与诱导公式",
+      "section": "三角函数与解三角形",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "MATH-021",
+      "title": "两角和差与二倍角",
+      "section": "三角函数与解三角形",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "MATH-022",
+      "title": "三角恒等变换",
+      "section": "三角函数与解三角形",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "MATH-023",
+      "title": "三角函数图像与性质",
+      "section": "三角函数与解三角形",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "MATH-024",
+      "title": "正弦定理",
+      "section": "三角函数与解三角形",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "MATH-025",
+      "title": "余弦定理",
+      "section": "三角函数与解三角形",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "MATH-026",
+      "title": "三角形面积与实际应用",
+      "section": "三角函数与解三角形",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "MATH-027",
+      "title": "向量线性运算",
+      "section": "平面向量与复数",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "MATH-028",
+      "title": "向量数量积与夹角",
+      "section": "平面向量与复数",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "MATH-029",
+      "title": "平面向量坐标",
+      "section": "平面向量与复数",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "MATH-030",
+      "title": "向量几何应用",
+      "section": "平面向量与复数",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "MATH-031",
+      "title": "复数概念与运算",
+      "section": "平面向量与复数",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "MATH-032",
+      "title": "复数几何意义",
+      "section": "平面向量与复数",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "MATH-033",
+      "title": "数列概念与递推",
+      "section": "数列",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "MATH-034",
+      "title": "等差数列",
+      "section": "数列",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "MATH-035",
+      "title": "等比数列",
+      "section": "数列",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "MATH-036",
+      "title": "数列求和",
+      "section": "数列",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "MATH-037",
+      "title": "数列不等式与放缩",
+      "section": "数列",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "MATH-038",
+      "title": "数列综合证明",
+      "section": "数列",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "MATH-039",
+      "title": "空间点线面关系",
+      "section": "立体几何",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "MATH-040",
+      "title": "空间平行证明",
+      "section": "立体几何",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "MATH-041",
+      "title": "空间垂直证明",
+      "section": "立体几何",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "MATH-042",
+      "title": "空间角与距离",
+      "section": "立体几何",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "MATH-043",
+      "title": "棱柱棱锥与球",
+      "section": "立体几何",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "MATH-044",
+      "title": "空间向量与坐标",
+      "section": "立体几何",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "MATH-045",
+      "title": "空间直线与平面夹角",
+      "section": "立体几何",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "MATH-046",
+      "title": "二面角与空间向量",
+      "section": "立体几何",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "MATH-047",
+      "title": "直线方程与位置关系",
+      "section": "解析几何",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "MATH-048",
+      "title": "圆的方程",
+      "section": "解析几何",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "MATH-049",
+      "title": "圆锥曲线基础",
+      "section": "解析几何",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "MATH-050",
+      "title": "椭圆定义与标准方程",
+      "section": "解析几何",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "MATH-051",
+      "title": "双曲线定义与标准方程",
+      "section": "解析几何",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "MATH-052",
+      "title": "抛物线定义与标准方程",
+      "section": "解析几何",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "MATH-053",
+      "title": "圆锥曲线焦点性质",
+      "section": "解析几何",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "MATH-054",
+      "title": "直线与圆锥曲线联立",
+      "section": "解析几何",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "MATH-055",
+      "title": "轨迹方程",
+      "section": "解析几何",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "MATH-056",
+      "title": "定点定值与范围问题",
+      "section": "解析几何",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "MATH-057",
+      "title": "导数定义与几何意义",
+      "section": "导数及应用",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "MATH-058",
+      "title": "基本求导法则",
+      "section": "导数及应用",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "MATH-059",
+      "title": "复合函数求导",
+      "section": "导数及应用",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "MATH-060",
+      "title": "导数与单调性",
+      "section": "导数及应用",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "MATH-061",
+      "title": "导数与极值最值",
+      "section": "导数及应用",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "MATH-062",
+      "title": "导数与切线",
+      "section": "导数及应用",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "MATH-063",
+      "title": "参数不等式与恒成立",
+      "section": "导数及应用",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "MATH-064",
+      "title": "零点个数与函数构造",
+      "section": "导数及应用",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "MATH-065",
+      "title": "导数综合证明",
+      "section": "导数及应用",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "MATH-066",
+      "title": "计数原理",
+      "section": "概率与统计",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "MATH-067",
+      "title": "排列与组合",
+      "section": "概率与统计",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "MATH-068",
+      "title": "二项式定理",
+      "section": "概率与统计",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "MATH-069",
+      "title": "随机事件与概率",
+      "section": "概率与统计",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "MATH-070",
+      "title": "条件概率与独立性",
+      "section": "概率与统计",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "MATH-071",
+      "title": "离散型随机变量",
+      "section": "概率与统计",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "MATH-072",
+      "title": "二项分布",
+      "section": "概率与统计",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "MATH-073",
+      "title": "超几何分布",
+      "section": "概率与统计",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "MATH-074",
+      "title": "期望与方差",
+      "section": "概率与统计",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "MATH-075",
+      "title": "统计图表与抽样",
+      "section": "概率与统计",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "MATH-076",
+      "title": "回归与相关性",
+      "section": "概率与统计",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "MATH-077",
+      "title": "正态分布",
+      "section": "概率与统计",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "MATH-078",
+      "title": "数学建模流程",
+      "section": "数学建模与试卷教学",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "MATH-079",
+      "title": "函数模型与优化",
+      "section": "数学建模与试卷教学",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "MATH-080",
+      "title": "几何模型与实际问题",
+      "section": "数学建模与试卷教学",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "MATH-081",
+      "title": "数据建模与不确定性",
+      "section": "数学建模与试卷教学",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "MATH-082",
+      "title": "无答案试卷审题",
+      "section": "数学建模与试卷教学",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "MATH-083",
+      "title": "解题逻辑与数学证明",
+      "section": "数学建模与试卷教学",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "MATH-084",
+      "title": "零基础逐题教学",
+      "section": "数学建模与试卷教学",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "MATH-085",
+      "title": "LaTeX数学排版",
+      "section": "数学建模与试卷教学",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "MATH-086",
+      "title": "Python科学绘图",
+      "section": "数学建模与试卷教学",
+      "status": "index_only",
+      "prerequisites": []
+    },
+    {
+      "id": "MATH-087",
+      "title": "答案独立验算与审校",
+      "section": "数学建模与试卷教学",
+      "status": "index_only",
+      "prerequisites": []
+    }
+  ]
+}
